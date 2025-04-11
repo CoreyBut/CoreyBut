@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hi there 👋  
+I'm **Corey Butler** — [coreybut.github.io/coreybut](https://coreybut.github.io/coreybut)  
 
-<!--
-**CoreyBut/CoreyBut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Cybersecurity major** at the **University of North Alabama**  
+💻 Currently enrolled in **Web Dev 376-01**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 About Me
+
+I'm practicing web development to sharpen my IT skillset. Right now, I'm learning:
+
+- IT Infrastructure  
+- Web Development (beyond basic HTML)  
+- Mathematical problem solving  
+- Effective communication skills  
+
+In Web Dev, we’re building projects that use:
+- **Semantic HTML**
+- **Image & link layout**
+- **Interactive elements**
+- **Responsive design principles**
+
+🌍 I'm from **Florence, AL** and volunteer with **Habitat for Humanity** a few times a year.  
+One day, I’d love to build websites for local charities and nonprofits that need a hand.
+
+---
+
+### 📬 Contact Me
+
+- 📧 Email: [cwbutler@una.edu](mailto:cwbutler@una.edu)  
+- 🔗 LinkedIn: [corey-butler-11b42635b](https://www.linkedin.com/in/corey-butler-11b42635b/)
+
+---
+
+> “Thanks for stopping by!”
