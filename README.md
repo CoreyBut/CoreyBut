@@ -32,5 +32,14 @@ One day, I’d love to build websites for local charities and nonprofits that ne
 - 🔗 LinkedIn: [corey-butler-11b42635b](https://www.linkedin.com/in/corey-butler-11b42635b/)
 
 ---
+---
+
+### 🧩 Featured Project
+
+Check out one of my favorite group projects:  
+👉 [dev-easy-group-project2](https://github.com/CoreyBut/dev-easy-group-project2)
+
+> “Fun group build that pulls in random facts for students — built using HTML, CSS, and JavaScript.”
+
 
 > “Thanks for stopping by!”
